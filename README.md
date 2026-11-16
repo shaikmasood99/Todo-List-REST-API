@@ -31,5 +31,5 @@ Tested the API endpoints using Postman, including GET, POST, PUT, and DELETE ope
 dotnet restore
 dotnet run
 
-4. Open the Swagger URL displayed in the terminal
+4. Open the URL displayed in the terminal
    (if Swagger is configured).
